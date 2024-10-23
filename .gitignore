@@ -1,0 +1,3 @@
+/redis_utils/redis.conf
+.env_prod
+/redis_utils/data/
